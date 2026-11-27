@@ -1,0 +1,15 @@
+# Java build output
+/backend/target/
+
+# Angular dependencies and generated output
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.angular/
+/frontend/coverage/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
